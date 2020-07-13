@@ -1,3 +1,3 @@
-# Check it out!
+# G'day Cobber
 
-![SVG Test](https://raw.githubusercontent.com/GilFewster/GilFewster/master/assets/pic.svg?sanitize=true)
+![It's me!](https://raw.githubusercontent.com/GilFewster/GilFewster/master/assets/pic.svg?sanitize=true)
