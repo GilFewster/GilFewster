@@ -1,3 +1,3 @@
 # Check it out!
 
-![Alt text](./assets/checks-min.svg)
+![SVG Test](https://raw.githubusercontent.com/GilFewster/GilFewster/master/assets/checks-min.svg?sanitize=true)
